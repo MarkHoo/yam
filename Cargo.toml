@@ -9,7 +9,7 @@ homepage = "https://github.com/MarkHoo/yam"
 documentation = "https://github.com/MarkHoo/yam"
 repository = "https://github.com/MarkHoo/yam"
 readme = "README.md"
-license = "Apache License 2.0 OR MIT License"
+license = "Apache License 2.0"
 keywords = ["yam", "cli"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
