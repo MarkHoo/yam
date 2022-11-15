@@ -1,0 +1,17 @@
+[package]
+name = "yam"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.56"
+description = "A small example package"
+authors = ["MarkHoo <markhoo@foxmail.com>"]
+homepage = "https://github.com/MarkHoo/yam"
+documentation = "https://github.com/MarkHoo/yam"
+repository = "https://github.com/MarkHoo/yam"
+readme = "README.md"
+license = "Apache License 2.0 OR MIT License"
+keywords = ["yam", "cli"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
